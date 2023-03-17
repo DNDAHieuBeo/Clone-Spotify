@@ -6,6 +6,14 @@
   height: 40vmin;
   pointer-events: none;
 }
+.player-music{
+  background-color: #0F172A !important;
+  height: 6rem;
+  color: white;
+}
+.rhap_time, .rhap-current-time{
+  color: white !important;
+} 
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
